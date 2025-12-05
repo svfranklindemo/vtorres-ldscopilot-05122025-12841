@@ -1,7 +1,19 @@
 {
-  "mappings": [
-    "/content/pbakliwal/eds-crosswalk-source/:/",
-    "/content/pbakliwal/eds-crosswalk-source/metadata.json:/metadata.json",
-    "/content/pbakliwal/eds-crosswalk-source/redirects.json:/redirects.json"
-  ]
+    "mappings": [
+      "/content/vtorres/693235493f110884f04beb81/:/",
+      "/content/vtorres/693235493f110884f04beb81/configuration:/.helix/config.json",
+      "/content/vtorres/693235493f110884f04beb81/metadata:/metadata.json",
+      "/content/vtorres/693235493f110884f04beb81/configs:/configs.json",
+      "/content/vtorres/693235493f110884f04beb81/configs-stage:/configs-stage.json",
+      "/content/vtorres/693235493f110884f04beb81/configs-dev:/configs-dev.json",
+      "/content/vtorres/693235493f110884f04beb81/redirects:/redirects.json",
+      "/content/vtorres/693235493f110884f04beb81/placeholders:/placeholders.json",
+      "/content/vtorres/693235493f110884f04beb81/products/recommended-products:/products/recommended-products.json",
+      "/content/vtorres/693235493f110884f04beb81/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/vtorres/693235493f110884f04beb81/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/vtorres/693235493f110884f04beb81",
+      "/content/dam/citisignal/images/products/"
+    ]
 }
